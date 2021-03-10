@@ -3,4 +3,5 @@
 🤖 This project was developed using those technologies:
 
 • Python
+
 • MiniSom library available in: https://github.com/JustGlowing/minisom/
